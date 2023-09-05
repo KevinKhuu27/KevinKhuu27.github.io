@@ -52,7 +52,7 @@ ul {
 }
 
 .website_logo {
-    width: 50px;
+    width: 64px;
     height: auto;
 }
 
@@ -63,6 +63,7 @@ ul {
 }
 
 .header_link {
+    text-decoration: underline;
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -152,4 +153,28 @@ ul {
 .project_caption {
     font-size: 18px;
     color: #1f2937;
+}
+
+/* footer style */
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    height: 64px;
+}
+
+.footer_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.copyright a {
+    text-decoration: underline;
 }
