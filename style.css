@@ -78,7 +78,7 @@ h2 {
     color: #e5e7eb;
 }
 
-/* Layer One Style */
+/* Welcome Section Style */
 
 .layer_one {
     display: flex;
@@ -114,7 +114,7 @@ h2 {
     color: #e5e7eb;
 }
 
-/* Layer Two Style */
+/* Projects Section Style */
 
 .layer_two {
     display: flex;
@@ -160,7 +160,7 @@ h2 {
     text-decoration: underline;
 }
 
-/* Layer Three Style */
+/* About Me Section Style */
 
 .layer_three {
     display: flex;
@@ -184,6 +184,12 @@ h2 {
 .about_img {
     width: 256px;
     height: auto;
+}
+
+/* Connect Section Style */
+
+#h2_connect {
+    color: #e5e7eb;
 }
 
 /* footer style */
