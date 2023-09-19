@@ -193,6 +193,8 @@ h2 {
 .about_img {
     width: 256px;
     height: auto;
+    border: 8px solid #f9faf8;
+    border-radius: 8px;
 }
 
 /* Connect Section Style */
