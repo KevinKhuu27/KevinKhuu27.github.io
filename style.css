@@ -201,6 +201,19 @@ h2 {
     color: #1f2937;
 }
 
+.contact_info {
+    display: flex;
+    width: 512px;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 64px;
+}
+
+.img_connect {
+    width: 64px;
+    height: auto;
+}
+
 /* footer style */
 
 .footer {
